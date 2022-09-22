@@ -1,7 +1,7 @@
 #' Title
 #'
 #' @param df 
-#' @param ... 
+#' @param ind 
 #'
 #' @return
 #' @export

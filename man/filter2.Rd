@@ -9,7 +9,7 @@ filter2(df, ind)
 \arguments{
 \item{df}{}
 
-\item{...}{}
+\item{ind}{}
 }
 \description{
 Title

@@ -7,9 +7,9 @@
 select2(df, ind)
 }
 \arguments{
-\item{df}{data frame}
+\item{df}{}
 
-\item{...}{A vector of indices, variables, names or logicals}
+\item{ind}{}
 }
 \value{
 A data frame with subsetted variables

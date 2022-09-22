@@ -1,7 +1,7 @@
 #' Select variables
 #'
-#' @param df data frame
-#' @param ... A vector of indices, variables, names or logicals
+#' @param df 
+#' @param ind 
 #'
 #' @return A data frame with subsetted variables
 #' @export
