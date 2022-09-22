@@ -4,7 +4,7 @@
 \alias{select2}
 \title{Select variables}
 \usage{
-select2(df, ...)
+select2(df, ind)
 }
 \arguments{
 \item{df}{data frame}

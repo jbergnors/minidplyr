@@ -4,7 +4,7 @@
 \alias{filter2}
 \title{Title}
 \usage{
-filter2(df, ...)
+filter2(df, ind)
 }
 \arguments{
 \item{df}{}

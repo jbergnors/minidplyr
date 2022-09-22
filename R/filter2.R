@@ -7,6 +7,6 @@
 #' @export
 #'
 #' @examples
-filter2 <- function(df, ...){
-      df[..., ]
+filter2 <- function(df, ind){
+      df[ind, ]
 }

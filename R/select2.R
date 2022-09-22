@@ -8,6 +8,6 @@
 #'
 #' @examples
 #' select2(iris, 1:2)
-select2 <- function(df, ...){
-      df[, ...]
+select2 <- function(df, ind){
+      df[, ind]
 }
